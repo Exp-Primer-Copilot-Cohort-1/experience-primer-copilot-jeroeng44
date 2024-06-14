@@ -1,3 +1,3 @@
 //create web server
 var http = require('http');
-var fs = require(
+var fs = require();
